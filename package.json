@@ -1,0 +1,19 @@
+{
+  "name": "FOLD-landing",
+  "version": "1.0.0",
+  "description": "FOLD Informational Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/readFOLD/FOLD-landing"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/readFOLD/FOLD-landing/issues"
+  },
+  "homepage": "https://github.com/readFOLD/FOLD-landing"
+}
